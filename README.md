@@ -1,4 +1,4 @@
-Kanban React.js App
+shreya React.js App
 =====================
 
 Kanban-style project management tool built throughout the Pro React book
